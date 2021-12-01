@@ -7,7 +7,7 @@ public class GitDemo {
         System.out.println("Hey I'm Git Hub");
         System.out.println(getN(7));
         System.out.println("Hello world");
-        System.out.println(10+getN(7));
+
 
     }
 }
