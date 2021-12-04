@@ -6,7 +6,7 @@ public class GitDemo {
     public static void main(String[] args) {
         System.out.println("Hey I'm Git Hub");
         System.out.println(getN(7));
-        System.out.println("Hello world");
+        System.out.println("Hello Automation Pipeline");
         System.out.println("New line is added in program");
 
 
