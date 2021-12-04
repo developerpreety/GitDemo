@@ -3,7 +3,7 @@ public class GitDemo {
     public static int getN(int a){
         return n+a;
     }
-    public staticc void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Hey I'm Git Hub");
         System.out.println(getN(7));
         System.out.println("Hello world");
